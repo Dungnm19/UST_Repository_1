@@ -1,2 +1,2 @@
-# kho1
-#Thu tao repo tren github
+# Repository 1
+UST project, related to future article & thesis
