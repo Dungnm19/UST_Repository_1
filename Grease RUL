@@ -1,8 +1,0 @@
-# Applying PINNs to explore the remaining useful life of grease or lubricant of machine
-
-# Call API
-
-import matplotlib.pyplot as plt
-import numpy as np
-import pandas as pd
-import tensorflow as tf
